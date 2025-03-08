@@ -1,0 +1,6 @@
+speechrecognition
+pywin32
+google-generativeai
+pillow
+streamlit
+pyaudio
