@@ -43,7 +43,7 @@ def takeCommand():
             return "wait"
 
 # API Key Setup (replace with your actual API key)
-GENAI_API_KEY = "AIzaSyDBLHAinY4M73akarzljnYKI6nyvhjngpg"
+GENAI_API_KEY = "YOUR_API_KEY_ENTER_HERE--------------------------------"
 genai.configure(api_key=GENAI_API_KEY)
 
 # Function to generate blog from image with strict word limit
